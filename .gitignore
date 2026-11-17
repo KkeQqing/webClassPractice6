@@ -108,3 +108,11 @@ NuGet.Config
 # Docker
 docker-compose*.yml
 !docker-compose.yml
+
+# auto-added ignore rules
+*.iml
+*.ipr
+*.iws
+Thumbs.db
+desktop.ini
+*.log
