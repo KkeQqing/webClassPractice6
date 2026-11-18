@@ -54,6 +54,7 @@ dotnet user-secrets init
 
 powershell
 dotnet user-secrets set "ConnectionStrings:Default" "server=localhost;port=3306;database=RGZN;user=root;password=your_password"
+
 💡 替换 your_password 为你的真实 MySQL 密码。
 
 3. 验证是否成功
